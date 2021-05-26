@@ -1,0 +1,120 @@
+.container{ 
+    display: flex;
+  
+    background-color: #FCF8F3;
+    width: 1440px;
+    height:670px;
+}
+.rooms{
+    width:378px;
+    height:96px;
+    padding: 223px 100px;
+
+}
+h1{
+    color: #3A3A3A;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Gilroy-Bold";
+}
+.para{
+    width:368px;
+    height:48px;
+    margin-top:8px;  
+}
+p{
+    font-family: "Gilroy-Normal";
+    font-size: 16px;
+    color: gray;
+}
+button{
+    width: 176px;
+    height:48px;
+    background-color: #E89F71;
+    outline: none;
+    border-color:  #E89F71;
+    color:#FFFFFF;
+    margin-top: 24px;
+    font-family: "Gilroy-Normal";
+}
+button:hover{
+    background-color: coral;
+}
+.image1{
+   
+    margin:44px;
+}
+.peace{
+    position: absolute;
+    width:217px;
+    height:137px;
+    background-color: #FFFFFF;
+    margin:472px 651px;
+    background: rgba(255, 255, 255, 0.72);
+}
+.bedroom{
+    margin: 32px 32px;
+    font-size: 16px;
+    color:#616161;
+}
+.inner{
+    margin: 8px 32px;
+    color: black;
+}
+h2{
+    font-size: 24px;
+    font-family: "Gilroy-Regular";
+    font-weight: 600;
+}
+.image2{
+    margin-top: 44px;
+}
+.arrow{
+    position: absolute;
+    background-color: #E89F71;
+    width: 48px;
+    height:48px;
+    margin: 561px 868px;
+}
+.svg{
+    margin:18px 15px;
+}
+.arrow:hover{
+    background-color: coral;
+}
+.tips{
+    margin:44px 637px;
+}
+.images{
+    display: flex;
+    width: 1440px;
+    height:670px;
+   justify-content: space-evenly;
+}
+.details{
+    background-color:cornsilk;
+    width:385px;
+    height:119px;
+
+}
+
+.paragraph1{
+    width:247px;
+    height:58px;
+    padding: 16px 16px;
+}
+.paragraph2{
+    width: 340px;
+    height: 58;
+    padding: 16px 16px;
+}
+.paragraph3{
+    width:304px;
+    height: 58px;
+    padding: 16px 16px;
+}
+p2{
+    font-size: 24px;
+    color:#3A3A3A;
+    font-family: "Gilroy-Regular";
+}
